@@ -1,0 +1,12 @@
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\bin\Debug\net5.0\Datalayer.deps.json
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\bin\Debug\net5.0\Datalayer.dll
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\bin\Debug\net5.0\ref\Datalayer.dll
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\bin\Debug\net5.0\Datalayer.pdb
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\Datalayer.csproj.AssemblyReference.cache
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\Datalayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\Datalayer.AssemblyInfoInputs.cache
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\Datalayer.AssemblyInfo.cs
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\Datalayer.csproj.CoreCompileInputs.cache
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\Datalayer.dll
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\ref\Datalayer.dll
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\Datalayer.pdb
