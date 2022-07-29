@@ -1,0 +1,12 @@
+C:\Users\bened\source\repos\LibraryManagementSystem\ClassLibrary1\bin\Debug\net5.0\Applayer.deps.json
+C:\Users\bened\source\repos\LibraryManagementSystem\ClassLibrary1\bin\Debug\net5.0\Applayer.dll
+C:\Users\bened\source\repos\LibraryManagementSystem\ClassLibrary1\bin\Debug\net5.0\ref\Applayer.dll
+C:\Users\bened\source\repos\LibraryManagementSystem\ClassLibrary1\bin\Debug\net5.0\Applayer.pdb
+C:\Users\bened\source\repos\LibraryManagementSystem\ClassLibrary1\obj\Debug\net5.0\Applayer.csproj.AssemblyReference.cache
+C:\Users\bened\source\repos\LibraryManagementSystem\ClassLibrary1\obj\Debug\net5.0\Applayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bened\source\repos\LibraryManagementSystem\ClassLibrary1\obj\Debug\net5.0\Applayer.AssemblyInfoInputs.cache
+C:\Users\bened\source\repos\LibraryManagementSystem\ClassLibrary1\obj\Debug\net5.0\Applayer.AssemblyInfo.cs
+C:\Users\bened\source\repos\LibraryManagementSystem\ClassLibrary1\obj\Debug\net5.0\Applayer.csproj.CoreCompileInputs.cache
+C:\Users\bened\source\repos\LibraryManagementSystem\ClassLibrary1\obj\Debug\net5.0\Applayer.dll
+C:\Users\bened\source\repos\LibraryManagementSystem\ClassLibrary1\obj\Debug\net5.0\ref\Applayer.dll
+C:\Users\bened\source\repos\LibraryManagementSystem\ClassLibrary1\obj\Debug\net5.0\Applayer.pdb

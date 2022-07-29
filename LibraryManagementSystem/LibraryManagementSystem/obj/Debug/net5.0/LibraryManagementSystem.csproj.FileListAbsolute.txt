@@ -17,3 +17,5 @@ C:\Users\bened\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\
 C:\Users\bened\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net5.0\Datalayer.dll
 C:\Users\bened\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net5.0\Datalayer.pdb
 C:\Users\bened\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net5.0\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\bened\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net5.0\Applayer.dll
+C:\Users\bened\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net5.0\Applayer.pdb

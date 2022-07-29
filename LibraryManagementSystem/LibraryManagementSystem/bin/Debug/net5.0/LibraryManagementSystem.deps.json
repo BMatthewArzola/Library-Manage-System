@@ -8,13 +8,22 @@
     ".NETCoreApp,Version=v5.0": {
       "LibraryManagementSystem/1.0.0": {
         "dependencies": {
+          "Applayer": "1.0.0",
           "Datalayer": "1.0.0"
         },
         "runtime": {
           "LibraryManagementSystem.dll": {}
         }
       },
+      "Applayer/1.0.0": {
+        "runtime": {
+          "Applayer.dll": {}
+        }
+      },
       "Datalayer/1.0.0": {
+        "dependencies": {
+          "Applayer": "1.0.0"
+        },
         "runtime": {
           "Datalayer.dll": {}
         }
@@ -23,6 +32,11 @@
   },
   "libraries": {
     "LibraryManagementSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Applayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

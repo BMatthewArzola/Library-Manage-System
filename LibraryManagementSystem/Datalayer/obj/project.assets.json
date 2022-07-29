@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Applayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Applayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Applayer.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Applayer/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/Applayer.csproj",
+      "msbuildProject": "../ClassLibrary1/Applayer.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Applayer >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\bened\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\bened\\source\\repos\\LibraryManagementSystem\\ClassLibrary1\\Applayer.csproj": {
+              "projectPath": "C:\\Users\\bened\\source\\repos\\LibraryManagementSystem\\ClassLibrary1\\Applayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using Datalayer;
+using Applayer;
 namespace LibraryManagementSystem
 {
     class Program
@@ -125,7 +126,7 @@ namespace LibraryManagementSystem
                     case "3":
 
                         Console.WriteLine("\t\t\t\tReturn Books");
-                        UserTextFileStream.StudentsReturnedin(random());
+                        ReturnedBookData.StudentsReturnedin(random());
                         BookInformation.ReturnBook();
                         Console.WriteLine("\n\t\t\t\tPress any key to continue...");
                         Console.ReadLine();
@@ -135,7 +136,7 @@ namespace LibraryManagementSystem
 
                     case "4":
                         Console.WriteLine("\t\t\t\tBorrow Books");
-                        UserTextFileStream.StudentsBorrowedin(random());
+                        BorrowedBookData.StudentsBorrowedin(random());
                         BookInformation.BorrowBooks();
                         Console.WriteLine("\n\t\t\t\tPress any key to continue...");
                         Console.ReadLine();
@@ -230,7 +231,7 @@ namespace LibraryManagementSystem
             switch (choice)
             {
                 case "1":
-                    List<string> dataContent = UserTextFileStream.ReturnedReadFile();
+                    List<string> dataContent = ReturnedBookData.ReturnedReadFile();
                     Console.WriteLine("------------------------------------------------------------------------------------------------------------------------");
                     Console.WriteLine("\t\t\t\t\t\tStudent Who Returned Books");
                     Console.WriteLine("------------------------------------------------------------------------------------------------------------------------\n");
@@ -241,7 +242,7 @@ namespace LibraryManagementSystem
                     }
                     break;
                 case "2":
-                    List<string> dataContent1 = UserTextFileStream.BorrowedReadFile();
+                    List<string> dataContent1 = BorrowedBookData.BorrowedReadFile();
                     Console.WriteLine("------------------------------------------------------------------------------------------------------------------------");
                     Console.WriteLine("\t\t\t\t\t\tStudent Who Borrowed Books");
                     Console.WriteLine("------------------------------------------------------------------------------------------------------------------------\n");
@@ -260,7 +261,7 @@ namespace LibraryManagementSystem
 
         public static void ViewBooks()
         {
-            List<string> dataContent = BookInformation.ReadFile();
+            List<string> dataContent = BookData.ReadFile();
             Console.WriteLine("\t\t\t\tBook Name\tBook Author\tBook ID\n");
 
             foreach (var data in dataContent)

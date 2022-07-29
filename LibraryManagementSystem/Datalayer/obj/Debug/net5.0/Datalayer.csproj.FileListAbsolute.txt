@@ -10,3 +10,6 @@ C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\D
 C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\Datalayer.dll
 C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\ref\Datalayer.dll
 C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\Datalayer.pdb
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\bin\Debug\net5.0\Applayer.dll
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\bin\Debug\net5.0\Applayer.pdb
+C:\Users\bened\source\repos\LibraryManagementSystem\Datalayer\obj\Debug\net5.0\Datalayer.csproj.CopyComplete
